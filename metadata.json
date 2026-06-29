@@ -1,0 +1,6 @@
+{
+  "name": "Smart Inventory Demand Forecasting Dashboard",
+  "description": "An interactive, predictive logistics dashboard for warehouse managers featuring secure Firebase Auth, custom Firestore data persistence, high-fidelity Recharts analytics, and server-side Gemini AI forecasting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
